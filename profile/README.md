@@ -1,5 +1,5 @@
 
-#  <img alt="looky favicon" src="https://github.com/user-attachments/assets/e3747b22-93cd-42e1-b25d-6cadc47a9786" width="30rem" height="30rem" /> Team EooT (수정 예정)
+#  <img src="https://github.com/user-attachments/assets/fb3aca2d-b6b6-47fb-aa84-2b93ef37b2a0" width="30rem" height="30rem" /> Team EooT (수정 예정)
 
 
 ### **_SLOGAN 작성 예정_**
